@@ -59,8 +59,8 @@ MongoDB and Flask are used to create a new HTML page that displays all of the in
 * The root route `/` queries the Mongo database and passes the mars data into an HTML template to display the data.
 * The template HTML file called `index.html` takes the mars data dictionary and displays all of the data in the appropriate HTML elements.
 
-![final_app_part1.png](Images/final_app_part1.png)
-![final_app_part2.png](Images/final_app_part2.png)
+<img width="569" alt="Screen Shot 2021-05-04 at 6 12 13 pm" src="https://user-images.githubusercontent.com/77761497/175207254-71994efc-301a-4343-9fd5-e404ebde367a.png">
+<img width="591" alt="Screen Shot 2021-05-04 at 6 12 29 pm" src="https://user-images.githubusercontent.com/77761497/175207274-84092789-23f1-4b85-a07f-5878deebffca.png">
 
 ## Skills
 
