@@ -1,8 +1,12 @@
-# 12 Web Scraping - Mission to Mars
+# Web Scraping - Mission to Mars
 
 ## Background
 
 A web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+
+## Skills
+
+jupyter notebook | BeautifulSoup | pandas | Requests/Splinter | Pymongo | boostrap
 
 ### Web Scraping
 
@@ -62,6 +66,3 @@ MongoDB and Flask are used to create a new HTML page that displays all of the in
 <img width="569" alt="Screen Shot 2021-05-04 at 6 12 13 pm" src="https://user-images.githubusercontent.com/77761497/175207254-71994efc-301a-4343-9fd5-e404ebde367a.png">
 <img width="591" alt="Screen Shot 2021-05-04 at 6 12 29 pm" src="https://user-images.githubusercontent.com/77761497/175207274-84092789-23f1-4b85-a07f-5878deebffca.png">
 
-## Skills
-
-jupyter notebook | BeautifulSoup | pandas | Requests/Splinter | Pymongo | boostrap
